@@ -4,6 +4,8 @@ import pandas as pd
 import streamlit as st
 from pathlib import Path
 from agent_backend import ask_agent
+from dotenv import load_dotenv
+load_dotenv()
 
 BASE = Path(__file__).resolve().parents[1]
 
