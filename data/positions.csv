@@ -1,0 +1,11 @@
+ticker,name,asset_class,sector,region,currency,quantity,price,market_value,daily_return,beta,dv01,vega,liquidity_score,issuer
+AAPL,Apple Inc,Equity,Technology,US,USD,5000,195,975000,0.012,1.20,0,0,0.95,Apple
+MSFT,Microsoft Corp,Equity,Technology,US,USD,3500,425,1487500,-0.004,1.10,0,0,0.96,Microsoft
+NVDA,NVIDIA Corp,Equity,Technology,US,USD,1200,920,1104000,0.021,1.80,0,0,0.90,NVIDIA
+JPM,JPMorgan Chase,Equity,Financials,US,USD,4000,205,820000,-0.007,1.15,0,0,0.92,JPMorgan
+TLT,iShares 20+ Year Treasury ETF,Rates,Government Bonds,US,USD,8000,91,728000,0.003,-0.20,7200,0,0.88,US Treasury
+HYG,iShares High Yield Corp Bond ETF,Credit,High Yield,US,USD,10000,77,770000,-0.006,0.45,2200,0,0.80,High Yield Basket
+LQD,iShares Inv Grade Corp Bond ETF,Credit,Investment Grade,US,USD,6000,108,648000,-0.002,0.25,3600,0,0.84,IG Credit Basket
+GLD,SPDR Gold Shares,Commodity,Gold,Global,USD,4000,220,880000,0.002,0.05,0,0,0.93,Gold
+EURUSD,EURUSD Forward,FX,FX,Europe,EUR,1,1.08,500000,-0.001,0.10,0,0,0.98,EUR
+SPX_PUT,SPX 4800 Put Option,Option,Index Options,US,USD,100,120,120000,0.018,-0.60,0,45000,0.70,SPX

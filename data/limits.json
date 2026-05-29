@@ -1,0 +1,7 @@
+{
+  "max_single_name_pct_nav": 0.20,
+  "max_sector_pct_nav": 0.40,
+  "max_asset_class_pct_nav": 0.60,
+  "max_one_day_95_var_pct_nav": 0.035,
+  "min_liquidity_score": 0.72
+}
