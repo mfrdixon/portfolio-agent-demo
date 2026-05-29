@@ -10,6 +10,8 @@ from risk_tools import (
     get_top_positions,
     run_stress_test,
 )
+from dotenv import load_dotenv
+load_dotenv()
 
 SYSTEM_INSTRUCTIONS = """
 You are a read-only portfolio risk analytics agent for an institutional client.
